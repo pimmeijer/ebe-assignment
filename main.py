@@ -27,7 +27,7 @@ ghi_erbs = pvlib.irradiance.erbs(ghi, solpos.zenith, irrdata.index)
 result = pd.concat([ghi, ghi_disc, ghi_dirint, ghi_dirindex, ghi_erbs], axis=1)
 test
 test 2
-
+test 3
 #gefsldg nskdljg
 
 
